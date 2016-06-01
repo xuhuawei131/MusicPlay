@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\listview_head.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\listview_head.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_play_icon.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\list_play_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_pre.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\player_pre.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_order.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\mode_order.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handlelayout_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\handlelayout_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progresslayout_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\progresslayout_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menuitem_f.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\menuitem_f.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about_dialog_icon.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\about_dialog_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handle_bar_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\handle_bar_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\meun_about.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\meun_about.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handle_down.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\handle_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menulayout_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\menulayout_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\meun_exit.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\meun_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_pause_icon.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\list_pause_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_next.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\player_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\meun_setup.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\meun_setup.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handle_bar_f.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\handle_bar_f.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_playing.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\progress_playing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playcontrol_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\playcontrol_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handle_play_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\handle_play_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_single_loop.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\mode_single_loop.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cut_line.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\cut_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_random.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\mode_random.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\listlayout_bg.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\listlayout_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thumb_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\thumb_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_stop.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\player_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slidercontent_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\slidercontent_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\modelayout_bg_f.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\modelayout_bg_f.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_list_loop.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\mode_list_loop.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thumb_f.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\thumb_f.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ablum_deflaut.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\ablum_deflaut.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\modelayout_bg_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\modelayout_bg_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicelayout_left_bg_f.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\voicelayout_left_bg_f.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\meun_syn.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\meun_syn.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handle_pause_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\handle_pause_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ablumlayout_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\ablumlayout_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_play.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\player_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_pause.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\player_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_buffering.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\progress_buffering.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voicelayout_left_bg_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\voicelayout_left_bg_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handle_up.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\handle_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\prompt.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable-hdpi\\prompt.png"
+    }
+]

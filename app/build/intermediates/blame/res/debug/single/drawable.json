@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_mode_set.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable\\selector_mode_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_image_list.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable\\menu_image_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_handle_bar.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable\\selector_handle_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_volum_set.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable\\selector_volum_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_music_btn.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable\\shape_music_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_music_btn.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable\\selector_music_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable\\shape_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable\\selector_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_line.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable\\shape_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_list_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable\\selector_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_style.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MusicPlay\\app\\src\\main\\res\\drawable\\seekbar_style.xml"
+    }
+]
